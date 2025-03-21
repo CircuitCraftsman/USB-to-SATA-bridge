@@ -1,6 +1,7 @@
 # USB-to-SATA-bridge
 Open-Source SATA to USB 3.0 bridge 🔧 
  The main chip is TUSB9261 from Texas Instruments. It is compatible with SATA 1.5-Gbps or SATA 3.0-Gbps devices. The TUSB9261 comes with loaded firmware. Therefore you don't need to write firmware.
+ 
 📍 The PCB was designed in 4 layers: Signal-Gnd-Pwr-Signal.
 
 📍 SATA signals are routed as differential pair 100Ω (single-ended 50Ω) and length matched within 2.5 mil tolerance.
