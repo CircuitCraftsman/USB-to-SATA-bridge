@@ -10,7 +10,8 @@
 
  📍 JLC04161H-3313 controlled impedance PCB stackup.
 
-📍The small fan was used to cool down the main chip. It is optional.
+📍The small fan was used to cool down the main chip. It is optional
+
 
 System Block Diagram
 
