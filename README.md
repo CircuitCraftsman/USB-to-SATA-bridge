@@ -13,22 +13,22 @@
 📍The small fan was used to cool down the main chip. It is optional
 
 
-*System Block Diagram*
+**System Block Diagram**
 
 ![Alt text](https://github.com/CircuitCraftsman/USB-to-SATA-bridge/blob/main/USB%20to%20SATA%20bridge/Project%20Outputs/Images/Block%20diagram.png?raw=true)
 
-3D Model Front View
+**3D Model Front View**
 
 ![Alt text](https://github.com/CircuitCraftsman/USB-to-SATA-bridge/blob/main/USB%20to%20SATA%20bridge/Project%20Outputs/Images/3D%20Front.png)
 
-3D Model Back View
+**3D Model Back View**
 
 ![Alt text](https://github.com/CircuitCraftsman/USB-to-SATA-bridge/blob/main/USB%20to%20SATA%20bridge/Project%20Outputs/Images/3D%20Back.png)
 
-MCU
+**MCU**
 
 ![Alt text](https://github.com/CircuitCraftsman/USB-to-SATA-bridge/blob/main/USB%20to%20SATA%20bridge/Schematic/MCU.png)
 
-Power
+**Power**
 
 ![Alt text](https://github.com/CircuitCraftsman/USB-to-SATA-bridge/blob/main/USB%20to%20SATA%20bridge/Schematic/Power.png)
