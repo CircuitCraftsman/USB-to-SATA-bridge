@@ -1,0 +1,28 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: USB to SATA bridge.PcbDoc   3/21/2025  8:19:55 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : L1(Sig) to L2(Sig)
+ASCII RoundHoles File : USB to SATA bridge.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             5         PTH        3.25mm (0.13inch)
+T2      0.3mm (12mil)                                             Round             494       PTH        1431.68mm (56.37inch)
+T3      0.4mm (16mil)                                             Round             68        PTH        422.91mm (16.65inch)
+T4      0.6mm (24mil)                                             Round             10        PTH        18.29mm (0.72inch)
+T5      0.889mm (35mil)                                           Round             3         PTH        5.08mm (0.20inch)
+T6      1.1mm (43mil)           +0mm (0mil)/-0.25mm (10mil)       Round             3         PTH        5.08mm (0.20inch)
+T7      1.25mm (49mil)                                            Round             2         NPTH       40.00mm (1.57inch)
+T8      1.7mm (67mil)                                             Round             1         NPTH       0.00mm (0.00inch)
+T9      1.8mm (71mil)                                             Round             1         NPTH       0.00mm (0.00inch)
+T10     2mm (79mil)                                               Round             9         NPTH       302.68mm (11.92inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              596
+
+Two holes at same point : 2
+-----------------------
+789,1072
+789,1025
+
+Total Processing Time (hh:mm:ss) : 00:00:00
