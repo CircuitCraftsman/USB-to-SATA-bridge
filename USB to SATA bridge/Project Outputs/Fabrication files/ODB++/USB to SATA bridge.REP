@@ -1,0 +1,146 @@
+*************************************************************
+FileName = USB to SATA bridge.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\profile
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\stephdr
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\top_surface_finish\features
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\top_surface_finish\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\dielectric_1\features
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\dielectric_1\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\dielectric_3\features
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\dielectric_3\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\bottom_surface_finish\features
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\bottom_surface_finish\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\dielectric_2\features
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\dielectric_2\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\drill_non-plated_l2_sig_-l1_sig_\features
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\drill_non-plated_l2_sig_-l1_sig_\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\drill_non-plated_l2_sig_-l1_sig_\tools
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\top_paste\features
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\mechanical_1\features
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\mechanical_1\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\board\features
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\board\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\top_solder\features
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\top_3d_body\features
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\top_3d_body\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\gnd\features
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\gnd\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\top_component_center\features
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\top_component_center\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\pwr\features
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\pwr\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\drill_plated_l2_sig_-l1_sig_\features
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\drill_plated_l2_sig_-l1_sig_\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\drill_plated_l2_sig_-l1_sig_\tools
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\bottom_3d_body\features
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\bottom_3d_body\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\bottom_courtyard\features
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\bottom_courtyard\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\top_assembly\features
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\top_assembly\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\drill_guide_l1_sig_-l2_sig_\features
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\drill_guide_l1_sig_-l2_sig_\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\l2_sig_\features
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\l2_sig_\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\top_courtyard\features
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\top_courtyard\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\title_block\features
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\title_block\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\l1_sig_\features
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\l1_sig_\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\fab_notes\features
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\fab_notes\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\dimensions\features
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\dimensions\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\drill_drawing_l1_sig_-l2_sig_\features
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\drill_drawing_l1_sig_-l2_sig_\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\comp_+_bot\features
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\comp_+_bot\components
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\steps\pcb\eda\data
+
+Generated File : C:\Users\Public\Documents\Altium\USB to SATA bridge\Project Outputs for USB to SATA bridge\odb\matrix\matrix
+
