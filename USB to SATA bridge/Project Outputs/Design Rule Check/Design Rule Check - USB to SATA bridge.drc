@@ -1,0 +1,64 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Public\Documents\Altium\USB to SATA bridge\USB to SATA bridge.PcbDoc
+Date     : 9/5/2024
+Time     : 10:29:15 PM
+
+Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=5mil) (Max=78.74mil) (Preferred=5.906mil) (All)
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=5mil) (All),(All)
+   Violation between Hole To Hole Clearance Constraint: (Collision < 5mil) Between Via (778.701mil,1014.823mil) from L1(Sig) to L2(Sig) And Via (778.701mil,1014.823mil) from L1(Sig) to L2(Sig) Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 5mil) Between Via (778.701mil,1062.067mil) from L1(Sig) to L2(Sig) And Via (778.701mil,1062.067mil) from L1(Sig) to L2(Sig) Pad/Via Touching Holes
+Rule Violations :2
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=1mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=3.937mil) (IsText),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 3.937mil) Between Text "R8" (2012.273mil,734.488mil) on Top Overlay And Track (2010mil,695.591mil)(2010mil,755mil) on L1(Sig) [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 3.937mil) Between Text "R8" (2012.273mil,734.488mil) on Top Overlay And Via (2010mil,755mil) from L1(Sig) to L2(Sig) [Top Overlay] to [Top Solder] clearance [0mil]
+Rule Violations :2
+
+Processing Rule : Silk to Silk (Clearance=5mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=5mil) (InDifferentialPairClass('USB90'))
+   Violation between Matched Net Lengths: Between Net CAP_SSTX_N And Net CAP_SSTX_P Actual Difference against CAP_SSTX_P is: 37.114mil, Tolerance : 5mil. 
+Rule Violations :1
+
+Processing Rule : Matched Lengths(Tolerance=2.5mil) (InDifferentialPairClass('SATA100'))
+   Violation between Matched Net Lengths: Between Net SATARX_N And Net SATARX_P Actual Difference against SATARX_P is: 14.717mil, Tolerance : 2.5mil. 
+   Violation between Matched Net Lengths: Between Net SATATX_N And Net SATATX_P Actual Difference against SATATX_P is: 9.919mil, Tolerance : 2.5mil. 
+Rule Violations :2
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 7
+Waived Violations : 0
+Time Elapsed        : 00:00:02
