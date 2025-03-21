@@ -16,6 +16,14 @@
 
 ![Alt text](https://github.com/CircuitCraftsman/USB-to-SATA-bridge/blob/main/USB%20to%20SATA%20bridge/Project%20Outputs/Images/Block%20diagram.png?raw=true)
 
+3D Model Front View
+
+![Alt text](https://github.com/CircuitCraftsman/USB-to-SATA-bridge/blob/main/USB%20to%20SATA%20bridge/Project%20Outputs/Images/3D%20Front.png)
+
+3D Model Back View
+
+![Alt text](https://github.com/CircuitCraftsman/USB-to-SATA-bridge/blob/main/USB%20to%20SATA%20bridge/Project%20Outputs/Images/3D%20Back.png)
+
                                                    MCU
 
 ![Alt text](https://github.com/CircuitCraftsman/USB-to-SATA-bridge/blob/main/USB%20to%20SATA%20bridge/Schematic/MCU.png)
