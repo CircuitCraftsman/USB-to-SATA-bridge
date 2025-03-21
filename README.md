@@ -8,3 +8,6 @@ Open-Source USB to SATA bridge controller
                                                    MCU
 
 ![Alt text](https://github.com/CircuitCraftsman/USB-to-SATA-bridge/blob/main/USB%20to%20SATA%20bridge/Schematic/MCU.png)
+
+                                                  Power
+![Alt text](https://github.com/CircuitCraftsman/USB-to-SATA-bridge/blob/main/USB%20to%20SATA%20bridge/Schematic/Power.png)
