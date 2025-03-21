@@ -36,3 +36,7 @@
 **Layout**
 
 ![Alt text](https://github.com/CircuitCraftsman/USB-to-SATA-bridge/blob/main/USB%20to%20SATA%20bridge/Project%20Outputs/Images/PCB%20layout.png?raw=true)
+
+**Assembly Drawing**
+
+![Alt text](https://github.com/CircuitCraftsman/USB-to-SATA-bridge/blob/main/USB%20to%20SATA%20bridge/Project%20Outputs/Images/Assembly.png?raw=true)
