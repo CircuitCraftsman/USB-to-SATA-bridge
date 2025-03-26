@@ -19,29 +19,29 @@
 
 ![Alt text](https://github.com/CircuitCraftsman/USB-to-SATA-bridge/blob/main/USB%20to%20SATA%20bridge/Project%20Outputs/Images/Block%20diagram.png?raw=true)
 
-# **3D Views**
+# 3D Views
 
 ![Alt text](https://github.com/CircuitCraftsman/USB-to-SATA-bridge/blob/main/USB%20to%20SATA%20bridge/Project%20Outputs/Images/3D%20Front.png)
 
 
 ![Alt text](https://github.com/CircuitCraftsman/USB-to-SATA-bridge/blob/main/USB%20to%20SATA%20bridge/Project%20Outputs/Images/3D%20Back.png)
 
-# **MCU**
+# MCU
 
 ![Alt text](https://github.com/CircuitCraftsman/USB-to-SATA-bridge/blob/main/USB%20to%20SATA%20bridge/Schematic/MCU.png)
 
-# **Power**
+# Power
 
 ![Alt text](https://github.com/CircuitCraftsman/USB-to-SATA-bridge/blob/main/USB%20to%20SATA%20bridge/Schematic/Power.png)
 
-# **Layout**
+# Layout
 
 ![Alt text](https://github.com/CircuitCraftsman/USB-to-SATA-bridge/blob/main/USB%20to%20SATA%20bridge/Project%20Outputs/Images/PCB%20layout.png?raw=true)
 
-# **DC PDN Simulation**
+# DC PDN Simulation
 
 ![Alt text](https://github.com/CircuitCraftsman/USB-to-SATA-bridge/blob/main/USB%20to%20SATA%20bridge/Simulation/Results/1726425965132.jpeg?raw=true)
 
-# **Assembly Drawing**
+# Assembly Drawing
 
 ![Alt text](https://github.com/CircuitCraftsman/USB-to-SATA-bridge/blob/main/USB%20to%20SATA%20bridge/Project%20Outputs/Images/Assembly.png?raw=true)
