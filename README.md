@@ -13,7 +13,7 @@
 📍The small fan was used to cool down the main chip. It is optional
 
 # Contents
-- [Open Source Tools Used](#System Block Diagram)
+- [System Block Diagram](#Sytem-Block-Diagram)
 
 # System Block Diagram
 
