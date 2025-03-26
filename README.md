@@ -12,7 +12,7 @@
 
 📍The small fan was used to cool down the main chip. It is optional
 
-**System Block Diagram**
+# **System Block Diagram**
 
 ![Alt text](https://github.com/CircuitCraftsman/USB-to-SATA-bridge/blob/main/USB%20to%20SATA%20bridge/Project%20Outputs/Images/Block%20diagram.png?raw=true)
 
